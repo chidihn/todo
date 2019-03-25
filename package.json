@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chidihn.github.io/react-gh-pages",
+  "homepage": "http://chidihn.github.io/todo",
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.8.3",
